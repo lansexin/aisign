@@ -13,10 +13,8 @@
 
 [AISIGNAPP](http://www.aisignapp.com) 将会是您的不错选择！
 
-![alt 属性文本](https://aisignappx.oss-cn-shenzhen.aliyuncs.com/1.png "预览")
-![alt 属性文本](https://aisignappx.oss-cn-shenzhen.aliyuncs.com/2.png "预览")
-![alt 属性文本](https://aisignappx.oss-cn-shenzhen.aliyuncs.com/3.png "预览")
-![alt 属性文本](https://aisignappx.oss-cn-shenzhen.aliyuncs.com/4.png "预览")
+![alt 属性文本](1.png "预览")
+![alt 属性文本](3.png "预览")
 
 **更多功能，请注册并使用！**
 **联系QQ：208685859**
